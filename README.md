@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoltan T. SZABO</h1>
-<h3 align="center">A passionate Data Scientist from Hungary</h3>
+<h3 align="center">A passionate Data Enthusiast from Hungary</h3>
 
 - 🔭 I’m currently working on **my first project in Classification.**
 
